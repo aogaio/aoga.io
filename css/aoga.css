@@ -80,12 +80,20 @@ hr.small {
     height: 100%;
     margin-right: -250px;
     overflow-y: auto;
-    background: #26C281;
+    /*background: rgba(38, 194, 129, 0.5);*/
+    background: rgba(232, 132, 108, 0.7);
     -webkit-transition: all 0.4s ease 0s;
     -moz-transition: all 0.4s ease 0s;
     -ms-transition: all 0.4s ease 0s;
     -o-transition: all 0.4s ease 0s;
     transition: all 0.4s ease 0s;
+}
+
+#menu-toggle{
+    background: rgb(232, 132, 108);
+}
+#menu-close{
+    color: rgb(232, 132, 108);
 }
 
 .sidebar-nav {
@@ -164,6 +172,9 @@ hr.small {
     width: 100%;
     height: 100%;
     background: url(https://images.unsplash.com/photo-1416184008836-5486f3e2cf58?q=80&fm=jpg&s=71fc2173a8e57ff3334a621ada0c401a) no-repeat center center scroll;
+    /*
+background: url(https://images.unsplash.com/photo-1433354359170-23a4ae7338c6?q=80&fm=jpg&s=ae9f141fc85e050f6d68d1654c554236) no-repeat center center scroll;
+   */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
