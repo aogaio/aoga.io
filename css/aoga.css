@@ -279,7 +279,8 @@ footer {
 }
 
 .bg-primary{
-    background-color: #e8846c;
+    /*background-color: #e8846c;*/
+    background-image: linear-gradient(180deg, #e8846c, rgb(255, 185, 162));
 }
 
 .fa-cloud,
