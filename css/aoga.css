@@ -188,8 +188,10 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(//images.unsplash.com/photo-1416184008836-5486f3e2cf58?q=80&fm=jpg&s=71fc2173a8e57ff3334a621ada0c401a) no-repeat center center scroll;
+    background: url(//images.unsplash.com/photo-1432057322224-8916b9ed202a?dpr=2&fit=crop&fm=jpg&h=600&ixlib=rb-0.3.5&q=50&w=1300) no-repeat center center scroll;
     /*
+
+    //images.unsplash.com/photo-1416184008836-5486f3e2cf58?q=80&fm=jpg&s=71fc2173a8e57ff3334a621ada0c401a
 background: url(https://images.unsplash.com/photo-1433354359170-23a4ae7338c6?q=80&fm=jpg&s=ae9f141fc85e050f6d68d1654c554236) no-repeat center center scroll;
    */
     -webkit-background-size: cover;
